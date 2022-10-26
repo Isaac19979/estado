@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724633493616",
+    "project_id": "estadotarea",
+    "storage_bucket": "estadotarea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724633493616:android:3f96bdbba3f6a1e92454b5",
+        "android_client_info": {
+          "package_name": "com.example.inicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724633493616-adng8rncre04r296p9048e02ivlm90rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivV6Qd2zcPTV-JkPz9MoZbghhkCcV_Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724633493616-adng8rncre04r296p9048e02ivlm90rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
